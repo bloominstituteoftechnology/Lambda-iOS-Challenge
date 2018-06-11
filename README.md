@@ -47,9 +47,9 @@ This challenge is broken down into two parts:
 
 ## Part 1 - Classroom Assignments
 
-Join the iOS 101 Assessment Classroom [here](https://repl.it/classroom/invite/V4Um9xs). If you have never used repl.it before, you will need to sign up a free account.
+Join the iOS 101 Assessment Classroom [here](https://repl.it/classroom/invite/V4Um9xs). If you have never used repl.it before, you will need to sign up for a free account.
 
-You will then see a list of assignments. Please complete them in order (1.1, 1.2, 1.3, 2.1, etc.). As stated before, repl.it works like an online Swift Playground. You are able to write and run code on there directly. It will also test your code to make sure it works. The tests are somewhat finnicky, so the instructions may tell you to do something like print a variable or function in order for the tests to test your code correctly. **Please be sure to read all of the instructions.**
+You will then see a list of assignments. Please complete them in order (1.1, 1.2, 1.3, 2.1, etc.). As stated before, repl.it works like an online Swift Playground. You are able to write and run code on there directly. It will also test your code to make sure it works. The tests can be somewhat finnicky, so the instructions may tell you to do something like print a variable or function in order for the tests to test your code correctly. **Please be sure to read all of the instructions.**
 
 Once you have finished all the assignments in the Classroom, refer yourself back to this as the following section will have the instructions for the Xcode project.
 
@@ -81,4 +81,4 @@ Once we have verified that your repl.it assignments and the Xcode project you se
 
 [Interface Builder - Xcode Help](https://help.apple.com/xcode/mac/8.0/#/dev31645f17f) - Everything within the section titled "Lay out user interfaces" on the left menu
 
-[How to Zip Files](http://osxdaily.com/2012/01/10/how-to-zip-files-in-mac-os-x/) - You should zip the very topmost folder of your Xcode project. (The zip the folder that contains the .xcodeproj file)
+[How to Zip Files](http://osxdaily.com/2012/01/10/how-to-zip-files-in-mac-os-x/) - You should zip the very topmost folder of your Xcode project. (Zip the folder that contains the .xcodeproj file)
