@@ -1,6 +1,6 @@
 # Lambda iOS Challenge
 
-If you have not yet filled out the form at https://lambdaschool.com/ios-challenge/ (make this /ioschallenge?) please do that before submitting your pull request.
+If you have not yet filled out the form at https://lambdaschool.com/ios-challenge/ please do that before submitting your pull request.
 
 In order to remove even more barriers for those that want to participate in Lambda School, we've created the Lambda Challenge. Based on our data, we are confident that if you can complete the Lambda Challenge, we can help you learn to code, and get a job as an iOS developer. This test enables you to bypass the regular precourse work. 
 
