@@ -1,6 +1,6 @@
 # Lambda iOS Challenge
 
-If you have not yet filled out the form at https://lambdaschool.com/ios-challenge/ please do that before submitting your pull request.
+If you have not yet filled out the form at https://lambdaschool.com/ios-challenge/ please do that before submitting your challenge.
 
 In order to remove even more barriers for those that want to participate in Lambda School, we've created the Lambda Challenge. Based on our data, we are confident that if you can complete the Lambda Challenge, we can help you learn to code, and get a job as an iOS developer. This test enables you to bypass the regular precourse work. 
 
@@ -75,7 +75,7 @@ This project should meet the following requirements:
 
 Once you have completed both parts of the challenge please zip (compress) your project up. If you need help zipping your project, read the article linked in the Resources section below.
 
-If you have gone through the iOS 101 course, send it to your Project Manager through Slack. If you are testing out of the iOS 101 course, send it to Andrew Madsen through Slack. Simply open a direct message chat with the correct person, then drag the zipped project up, and click the "Upload" button.
+**Send your zipped project along with your name on repl.it to [andrew@lambdaschool.com](mailto:andrew@lambdaschool.com)**
 
 Once we have verified that your repl.it assignments and the Xcode project you send meet the requirements outlined above, we will send you an email to schedule an interview.
 
