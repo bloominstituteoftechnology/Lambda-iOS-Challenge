@@ -25,9 +25,11 @@ Swift
 
 ## The Challenge
 
-Join the iOS 101 Assessment Classroom [here](https://repl.it/classroom/invite/V4Um9xs). If you have never used repl.it before, you will need to sign up for a free account.
+The iOS challenge consists of two parts. Join the first part [here](https://repl.it/classroom/invite/2x69cLm). If you have never used repl.it before, you will need to sign up for a free account.
 
 You will then see a list of assignments. Please complete them in order (1.1, 1.2, 1.3, 2.1, etc.). Repl.it works like an online Swift Playground. You are able to write and run code there directly. It will also test your code to make sure it works. The tests can be somewhat finnicky, so the instructions may tell you to do something like print a variable or function in order for the tests to test your code correctly. **Please be sure to read all of the instructions.**
+
+**After you've finisehd the first part, sign up for the second part [here](https://repl.it/classroom/invite/2x7calp)**. Again, please complete all assignments in order.
 
 ## Finishing Up
 
