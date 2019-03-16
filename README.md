@@ -42,6 +42,6 @@ Once we have verified that you passed the repl.it assignments 100%, we will send
 
 ## Resources
 
-[Lambda's Intro to iOS Curriculum](https://learn.lambdaschool.com/ios-pre/sprint/rec2iswmflrvhleto) - Curriculum material, including videos for Lambda's Intro to iOS course. Covers everything you need to know for this challenge.
+[Lambda's Intro to iOS Curriculum](https://apply.lambdaschool.com/courses/ios-precourse/) - Curriculum material, including videos for Lambda's Intro to iOS course. Covers everything you need to know for this challenge.
 
 [The Swift Programming Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) - Has many pages on specific topics such as Strings, collections, functions, etc. The menu on the left will help you navigate to what you might need.
