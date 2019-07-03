@@ -1,16 +1,14 @@
 # Lambda iOS Challenge
 
-If you have not yet filled out the form at https://lambdaschool.com/ios-challenge/ please do that before submitting your challenge.
+If you have not yet filled out the form at https://apply.lambdaschool.com/ please do that before starting the precourse work explained here.
 
-In order to remove even more barriers for those that want to participate in Lambda School, we've created the Lambda Challenge. Based on our data, we are confident that if you can complete the Lambda Challenge, we can help you learn to code, and get a job as an iOS developer. This test enables you to bypass the regular precourse work. 
+In order to remove even more barriers for those that want to participate in Lambda School, we've created the Lambda iOS precourse work curriculum. Based on our data, we are confident that if you can complete the precourse work, we can help you learn to code, and get a job as an iOS developer.
 
-If the questions in here are too difficult then you can begin working through our regular precourse work which covers the fundamentals [here](https://apply.lambdaschool.com/courses/ios-precourse/).
+[here](https://apply.lambdaschool.com/courses/ios-precourse/).
 
-You should also complete an application for our iOS course if you have not already done so. Apply [here](https://lambdaschool.com/courses/cs/ios/full-time/apply/).
+## Curriculum
 
-## Prerequisites
-
-In order to complete these challenges you will need a basic understanding of the following concepts:
+The iOS precourse curriculum teaches the following concepts and skills:
 
 ```
 Swift
@@ -25,7 +23,9 @@ Swift
 
 ## The Challenge
 
-The iOS challenge consists of three parts. Join the first part [here](https://repl.it/classroom/invite/7wv4ob2). If you have never used repl.it before, you will need to sign up for a free account.
+As part of the precourse work, in order to start at Lambda, you **must** complete a series of three challenges. 
+
+Join the first challenge [here](https://repl.it/classroom/invite/7wv4ob2). If you have never used repl.it before, you will need to sign up for a free account.
 
 You will then see a list of assignments. Please complete them in order (1.1, 1.2, 1.3, 2.1, etc.). Repl.it works like an online Swift Playground. You are able to write and run code there directly. It will also test your code to make sure it works. The tests can be somewhat finnicky, so the instructions may tell you to do something like print a variable or function in order for the tests to test your code correctly. **Please be sure to read all of the instructions.**
 
@@ -33,12 +33,9 @@ You will then see a list of assignments. Please complete them in order (1.1, 1.2
 
 **When you've finished with the second part, sign up for the third and final part [here](https://repl.it/classroom/invite/7wxall8)**.
 
-
 ## Finishing Up
 
-When you've finished, send an email to [karen@lambdaschool.com]()
-
-Once we have verified that you passed the repl.it assignments 100%, we will send you an email to schedule an interview.
+Once we have verified that you passed the repl.it assignments 100%, we will verify your application and invite you to join the class.
 
 ## Resources
 
