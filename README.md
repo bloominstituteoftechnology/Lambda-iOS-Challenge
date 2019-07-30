@@ -23,7 +23,7 @@ Swift
 
 ## The Challenge
 
-As part of the precourse work, in order to start at Lambda, you **must** complete a series of three challenges. 
+As part of the precourse work, in order to start at Lambda, you **must** complete a series of three challenges. These challenges are part of the precourse work, and you'll encounter them as you work through it, but are also included here as well for easy of access. 
 
 Join the first challenge [here](https://repl.it/classroom/invite/7wv4ob2). If you have never used repl.it before, you will need to sign up for a free account.
 
