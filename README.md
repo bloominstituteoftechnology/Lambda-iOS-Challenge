@@ -4,7 +4,7 @@ If you have not yet filled out the form at https://apply.lambdaschool.com/ pleas
 
 In order to remove even more barriers for those that want to participate in Lambda School, we've created the Lambda iOS precourse work curriculum. Based on our data, we are confident that if you can complete the precourse work, we can help you learn to code, and get a job as an iOS developer.
 
-[here](https://apply.lambdaschool.com/courses/ios-precourse/).
+You can find the iOS precourse work [here](https://apply.lambdaschool.com/courses/ios-precourse/).
 
 ## Curriculum
 
